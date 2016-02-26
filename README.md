@@ -1,2 +1,2 @@
 # pycam
-Python Course Snippets
+Python Course Snippets, - very rough!
